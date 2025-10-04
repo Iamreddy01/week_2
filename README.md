@@ -84,4 +84,6 @@ gtkwave output/pre_synth_sim/pre_synth_sim.vcd
 * 🔄 reset → Reset signal
 * 🎚 OUT (DAC) → Output from DAC (appears digital in sim)
 * 🔢 RV_TO_DAC[9:0] → 10-bit RVMYTH output → DAC input
+
+  ![](presynth.png)
   
